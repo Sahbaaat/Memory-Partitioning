@@ -1,0 +1,9 @@
+c:\users\icc\documents\visual studio 2015\Projects\Os\Os\bin\Debug\Os.exe.config
+C:\Users\ICC\documents\visual studio 2015\Projects\Os\Os\bin\Debug\Os.exe
+C:\Users\ICC\documents\visual studio 2015\Projects\Os\Os\bin\Debug\Os.pdb
+C:\Users\ICC\documents\visual studio 2015\Projects\Os\Os\obj\Debug\Os.csprojResolveAssemblyReference.cache
+C:\Users\ICC\documents\visual studio 2015\Projects\Os\Os\obj\Debug\Os.exe
+C:\Users\ICC\documents\visual studio 2015\Projects\Os\Os\obj\Debug\Os.pdb
+C:\Users\ICC\Documents\GIt HUB\Os\Os\bin\Debug\Os.exe.config
+C:\Users\ICC\Documents\GIt HUB\Os\Os\obj\Debug\Os.exe
+C:\Users\ICC\Documents\GIt HUB\Os\Os\obj\Debug\Os.pdb
